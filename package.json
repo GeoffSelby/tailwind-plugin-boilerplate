@@ -1,0 +1,27 @@
+{
+  "name": "tailwind-plugin-boilerplate",
+  "version": "1.0.0",
+  "description": "A simple boilerplate for building Tailwind Css plugins",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeoffSelby/tailwind-plugin-boilerplate.git"
+  },
+  "keywords": [
+    "Tailwind",
+    "plugin",
+    "boilerplate"
+  ],
+  "author": "Geoff Selby <geoff@geoffcodesthings.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GeoffSelby/tailwind-plugin-boilerplate/issues"
+  },
+  "homepage": "https://github.com/GeoffSelby/tailwind-plugin-boilerplate#readme"
+}
